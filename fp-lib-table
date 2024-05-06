@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AW88194A")(type "KiCad")(uri "${KIPRJMOD}/footprints/AW88194A")(options "")(descr ""))
+  (lib (name "TPS65631WDSKR")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPS65631WDSKR")(options "")(descr ""))
+  (lib (name "SPH0645LM4H-B")(type "KiCad")(uri "${KIPRJMOD}/footprints/SPH0645LM4H-B")(options "")(descr ""))
+)
