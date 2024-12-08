@@ -1317,7 +1317,7 @@
 			(uuid "983262c5-304f-4075-9598-2e9ead291cd2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.9 180)
+			(at 0 1.6 180)
 			(layer "F.Fab")
 			(uuid "d201646a-02dd-407b-934d-08027f41174f")
 			(effects
@@ -5587,13 +5587,13 @@
 			)
 		)
 		(property "Value" "PMEG40T20ER"
-			(at 0 2 90)
+			(at 0 1.4 90)
 			(layer "F.Fab")
 			(uuid "897d6cfe-c151-43b4-9903-e08757fbd1f9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.3 0.3)
+					(thickness 0.075)
 				)
 			)
 		)
@@ -5809,7 +5809,7 @@
 			(uuid "0be96d69-78e2-4654-9d13-4f0dc6f17adb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2 90)
+			(at 0.375 -1.6 90)
 			(layer "F.Fab")
 			(uuid "ae03082f-1b6c-4d70-a5de-9b3d2307c044")
 			(effects
@@ -17284,6 +17284,7 @@
 		(property "Value" "4.7uF"
 			(at 0 1.68 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "79d3f6ed-ac69-4d6d-9ccc-1ae93b7ec94a")
 			(effects
 				(font
@@ -24274,6 +24275,7 @@
 		(property "Value" "4.7uF"
 			(at 0 1.68 180)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1698ee44-845c-4404-bed9-4f774747b752")
 			(effects
 				(font
@@ -34396,6 +34398,7 @@
 		(property "Value" "4.7uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0205dcc0-53b5-4809-acc2-f520bec74375")
 			(effects
 				(font
@@ -40821,6 +40824,36 @@
 		(layer "B.Fab")
 		(uuid "edbefcd8-1fce-4ea0-98f7-2f4d7b6d30e2")
 	)
+	(gr_line
+		(start 117.5 117.25)
+		(end 118.75 116)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "00b2737b-1520-4fb3-a249-8b2e261a8aa2")
+	)
+	(gr_line
+		(start 121 117.25)
+		(end 117.5 117.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2c72eb00-be53-4096-bafc-068c32f17cb7")
+	)
+	(gr_line
+		(start 118.75 118.5)
+		(end 117.5 117.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "78add644-5ee9-4d49-b98f-7c2489c6022b")
+	)
 	(gr_text "CDONE\n"
 		(at 100.1 117.6 90)
 		(layer "B.SilkS")
@@ -40974,6 +41007,18 @@
 			(font
 				(size 0.5 0.5)
 				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "When panalizing the PCB, \nmake sure the mousebits are not \nunder the connector \nsince it has overhang.\n"
+		(at 121.5 119.5 0)
+		(layer "F.Fab")
+		(uuid "9734892c-c9ad-4c03-bc1f-3ae29aa4482c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
