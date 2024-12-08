@@ -16494,6 +16494,17 @@
 		)
 		(uuid c83fea8b-d695-4c84-a840-0c973e020eba)
 	)
+	(text "I2C: 0x15"
+		(exclude_from_sim no)
+		(at 221.488 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00931140-d3b8-4f99-bb45-c7fbad4d884d")
+	)
 	(text "I2C: 0x34"
 		(exclude_from_sim no)
 		(at 201.422 104.14 0)
@@ -18135,7 +18146,7 @@
 			(uuid "911f4614-ca87-4675-8d64-3bec091de86b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR033")
 					(unit 1)
@@ -18200,7 +18211,7 @@
 			(uuid "af7a4a7d-8f38-4eee-bf4d-90a0d7fe0812")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR011")
 					(unit 1)
@@ -18272,7 +18283,7 @@
 			(uuid "c0c08fe6-9444-45a1-96f1-28ccec55f0f8")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C32")
 					(unit 1)
@@ -18338,7 +18349,7 @@
 			(uuid "c9307f2b-8e60-4caa-abfb-e5223c3bd137")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR074")
 					(unit 1)
@@ -18416,7 +18427,7 @@
 			(uuid "ba83de28-2b96-427d-b7e9-677f98fa1f03")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C34")
 					(unit 1)
@@ -18485,7 +18496,7 @@
 			(uuid "1216677e-cffe-4f20-b0e5-7c516c41bc64")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C4")
 					(unit 1)
@@ -18565,7 +18576,7 @@
 			(uuid "88c5ec8a-929d-450a-8056-6b245f26a1bb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C33")
 					(unit 1)
@@ -18630,7 +18641,7 @@
 			(uuid "e15da6e0-ebba-4de3-b483-65f8776ff3e5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR067")
 					(unit 1)
@@ -18708,7 +18719,7 @@
 			(uuid "b524f41e-74e6-4d98-b764-30b119a2801f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R14")
 					(unit 1)
@@ -18773,7 +18784,7 @@
 			(uuid "1479b733-ee0b-454a-a958-a57d0b11005d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR017")
 					(unit 1)
@@ -18838,7 +18849,7 @@
 			(uuid "35116a1d-756b-4204-937c-236887950dcc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0141")
 					(unit 1)
@@ -18903,7 +18914,7 @@
 			(uuid "e4901cf4-6856-45bc-87d2-a60be7c8336a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0163")
 					(unit 1)
@@ -18968,7 +18979,7 @@
 			(uuid "263e617c-63bb-4934-8656-a4c2d074d8f3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR090")
 					(unit 1)
@@ -19038,7 +19049,7 @@
 			(uuid "535ac602-7313-456d-9426-5781cadad065")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C37")
 					(unit 1)
@@ -19110,7 +19121,7 @@
 			(uuid "95e03874-f3d6-45f9-8f34-d2d8b9e29e0b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C2")
 					(unit 1)
@@ -19175,7 +19186,7 @@
 			(uuid "b30a7cbb-8370-4820-898b-eae5d13ab3f4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR061")
 					(unit 1)
@@ -19240,7 +19251,7 @@
 			(uuid "9a53927d-7fd5-4d1a-a129-8d5a4f580306")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR016")
 					(unit 1)
@@ -19310,7 +19321,7 @@
 			(uuid "d7b3ce35-c501-4838-bdad-c671983b858d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "FB1")
 					(unit 1)
@@ -19382,7 +19393,7 @@
 			(uuid "4ccd3cf2-d7f2-44d4-a0a4-4c3c84704b36")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C3")
 					(unit 1)
@@ -19460,7 +19471,7 @@
 			(uuid "4c49d263-f7c4-4c0c-8269-faea2c269d86")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R18")
 					(unit 1)
@@ -19525,7 +19536,7 @@
 			(uuid "62b50248-6b12-45b7-9db8-08ad2637155b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR077")
 					(unit 1)
@@ -19590,7 +19601,7 @@
 			(uuid "484279cf-5120-4a6b-bb88-54912dee0fda")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR093")
 					(unit 1)
@@ -19655,7 +19666,7 @@
 			(uuid "64e2204b-db29-4961-9447-6c6f4f78e692")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0174")
 					(unit 1)
@@ -19720,7 +19731,7 @@
 			(uuid "a5f746a9-bf07-45e4-8849-d7483b21ce56")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0108")
 					(unit 1)
@@ -19785,7 +19796,7 @@
 			(uuid "cd9f41f4-40c7-4b11-9197-d87499aa2121")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR01")
 					(unit 1)
@@ -19868,7 +19879,7 @@
 			(uuid "8883ee79-bd17-416f-bde8-7a16090bd7b3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "MK1")
 					(unit 1)
@@ -19933,7 +19944,7 @@
 			(uuid "fc2fa1fa-6ac8-429c-8fd6-0a7dc207a18b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR099")
 					(unit 1)
@@ -20005,7 +20016,7 @@
 			(uuid "ca4a40c2-52d4-4126-8cae-9647fd730916")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C25")
 					(unit 1)
@@ -20074,7 +20085,7 @@
 			(uuid "53fa0516-f695-4a22-ad40-90e0f62047ee")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP10")
 					(unit 1)
@@ -20139,7 +20150,7 @@
 			(uuid "d1be48e7-6d84-46a5-b846-a3e8d5b9f105")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0161")
 					(unit 1)
@@ -20211,7 +20222,7 @@
 			(uuid "81a26d3f-1d72-41dd-b1a3-9b431b0eec3f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C1")
 					(unit 1)
@@ -20276,7 +20287,7 @@
 			(uuid "6ec2537b-ff22-4eb2-8980-aa16a45f3c58")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0112")
 					(unit 1)
@@ -20342,7 +20353,7 @@
 			(uuid "c8344d3b-94f0-4ad0-8999-d98a53cfca29")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0137")
 					(unit 1)
@@ -20407,7 +20418,7 @@
 			(uuid "0e451219-c5f7-432a-ac5a-d5f141760d9c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR096")
 					(unit 1)
@@ -20504,7 +20515,7 @@
 			(uuid "e6119caf-8864-4528-8df3-18b6951173ac")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U4")
 					(unit 1)
@@ -20569,7 +20580,7 @@
 			(uuid "10a57d98-9651-4bc6-aaaa-ba4a883866a5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR029")
 					(unit 1)
@@ -20639,7 +20650,7 @@
 			(uuid "cb4d305d-d7e5-480b-b3ec-17861e3c5fae")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R24")
 					(unit 1)
@@ -20719,7 +20730,7 @@
 			(uuid "6d83f176-1605-43e8-9b92-22351d1428f5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C12")
 					(unit 1)
@@ -20784,7 +20795,7 @@
 			(uuid "cfbdabfb-15b7-475e-84f4-6d9ee1839bcd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0117")
 					(unit 1)
@@ -20850,7 +20861,7 @@
 			(uuid "221746ca-2113-4ec6-a6d0-858cc6cae51a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0110")
 					(unit 1)
@@ -20915,7 +20926,7 @@
 			(uuid "f7eefa13-6918-4014-be37-3ad31850fc11")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0157")
 					(unit 1)
@@ -20980,7 +20991,7 @@
 			(uuid "19209479-fd09-47cc-842f-536a6b5f579b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0111")
 					(unit 1)
@@ -21045,7 +21056,7 @@
 			(uuid "0be6ce37-eebb-4991-b726-16bf01e37097")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0101")
 					(unit 1)
@@ -21114,7 +21125,7 @@
 			(uuid "0e67d943-5db0-444d-8269-a17a2569e10e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C17")
 					(unit 1)
@@ -21179,7 +21190,7 @@
 			(uuid "e2d2b18e-2800-451b-8ecf-47edac248468")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0116")
 					(unit 1)
@@ -21258,7 +21269,7 @@
 			(uuid "93ad5d86-18d3-4296-b4e2-652b2b31246b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C43")
 					(unit 1)
@@ -21336,7 +21347,7 @@
 			(uuid "ffe6ee0d-b5a0-44dc-9055-0c7d27fff4e9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R16")
 					(unit 1)
@@ -21406,7 +21417,7 @@
 			(uuid "2df9258c-61c9-411e-b375-060b3dddef90")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R35")
 					(unit 1)
@@ -21478,7 +21489,7 @@
 			(uuid "fbe1b5d5-a3f0-4922-886d-13e6641af58e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C41")
 					(unit 1)
@@ -21553,7 +21564,7 @@
 			(uuid "fbcec087-c090-45b7-933a-a450e75c721d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "Q2")
 					(unit 1)
@@ -21650,7 +21661,7 @@
 			(uuid "994ca847-809a-4f18-ac48-5fdd882ac9db")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U6")
 					(unit 1)
@@ -21735,7 +21746,7 @@
 			(uuid "b7110a27-f85a-4982-860d-421d4c45cfcf")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "J3")
 					(unit 1)
@@ -22035,7 +22046,7 @@
 			(uuid "61f26035-2d3f-4125-be1f-162b9f4af37c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U1")
 					(unit 1)
@@ -22100,7 +22111,7 @@
 			(uuid "1b569a2d-7b38-42b9-a39e-e7729e308857")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0103")
 					(unit 1)
@@ -22172,7 +22183,7 @@
 			(uuid "7057a775-5792-4973-886d-b2f29851549a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C5")
 					(unit 1)
@@ -22241,7 +22252,7 @@
 			(uuid "26189dfe-1f9f-4ff2-8b0e-7e9eae4cf6fe")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R39")
 					(unit 1)
@@ -22320,7 +22331,7 @@
 			(uuid "fad3c928-bf6a-471a-92a3-51ca6003cad9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C50")
 					(unit 1)
@@ -22386,7 +22397,7 @@
 			(uuid "8993ba21-c543-4d25-84dc-7da4ce37f445")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0173")
 					(unit 1)
@@ -22452,7 +22463,7 @@
 			(uuid "3ceb4251-6afe-416d-90f5-3e69c2ac422e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR056")
 					(unit 1)
@@ -22517,7 +22528,7 @@
 			(uuid "0c9bdfd8-8b5c-4368-9e5d-040ce0523614")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR019")
 					(unit 1)
@@ -22590,7 +22601,7 @@
 			(uuid "5df74a8f-d989-4665-a3d1-b43e0123b7c0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "D1")
 					(unit 1)
@@ -22668,7 +22679,7 @@
 			(uuid "867975f9-dc17-41ab-acee-3a02a2886ac4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C14")
 					(unit 1)
@@ -22735,7 +22746,7 @@
 			(uuid "54fe363b-de26-492a-bc1a-2e3b2dbe2900")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R41")
 					(unit 1)
@@ -22800,7 +22811,7 @@
 			(uuid "f4f50bfc-e06d-4cad-8283-5c6e41a93654")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR018")
 					(unit 1)
@@ -22872,7 +22883,7 @@
 			(uuid "27ba4eb0-d467-4ab1-ad86-aba1e224c389")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C21")
 					(unit 1)
@@ -22964,7 +22975,7 @@
 			(uuid "9ce26b4f-dc3f-4b05-82e6-aac4ec924302")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U10")
 					(unit 1)
@@ -23029,7 +23040,7 @@
 			(uuid "a61697fb-639e-4639-8866-bd61c4260de9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR05")
 					(unit 1)
@@ -23094,7 +23105,7 @@
 			(uuid "21294f51-6e30-43b7-9291-b1f9b4984261")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0166")
 					(unit 1)
@@ -23169,7 +23180,7 @@
 			(uuid "57131e17-dcb9-44f6-b1ab-4c3b7f78b69c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "Q1")
 					(unit 1)
@@ -23247,7 +23258,7 @@
 			(uuid "ae9fa9db-8b10-4060-a5c7-a242b5fb53b4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C22")
 					(unit 1)
@@ -23312,7 +23323,7 @@
 			(uuid "a7a99804-cb47-46d1-8d27-8eb2f5f48445")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR020")
 					(unit 1)
@@ -23379,7 +23390,7 @@
 			(uuid "c669fc48-0cc0-4071-bd84-2310a5b4c171")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R44")
 					(unit 1)
@@ -23445,7 +23456,7 @@
 			(uuid "b11e630e-e045-44ac-aca2-283bb846c583")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR024")
 					(unit 1)
@@ -23511,7 +23522,7 @@
 			(uuid "16796b00-6c27-4937-979c-d74f69b58c74")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR014")
 					(unit 1)
@@ -23576,7 +23587,7 @@
 			(uuid "6b18d2bd-4749-48a7-ac21-ed105a1ed077")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR042")
 					(unit 1)
@@ -23641,7 +23652,7 @@
 			(uuid "02960570-91e6-4de1-9bd0-bd614011e3a7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR095")
 					(unit 1)
@@ -23706,7 +23717,7 @@
 			(uuid "cbd8f75c-7114-4974-a11b-eb5492e84d69")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0153")
 					(unit 1)
@@ -23818,7 +23829,7 @@
 			(uuid "4d51cd7d-bf6c-46b4-985f-239bd68a58dd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "J1")
 					(unit 1)
@@ -23883,7 +23894,7 @@
 			(uuid "44e0e59b-d8ab-4c8d-9c90-0643bc1cf438")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR030")
 					(unit 1)
@@ -23948,7 +23959,7 @@
 			(uuid "6a348f0b-fb54-4668-bbc3-f24b1a598e07")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR060")
 					(unit 1)
@@ -24013,7 +24024,7 @@
 			(uuid "e96da8db-4021-4cde-ba00-1a42e062b516")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0138")
 					(unit 1)
@@ -24091,7 +24102,7 @@
 			(uuid "ca7a5b14-e35d-4191-bc3b-2158df9690b2")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C44")
 					(unit 1)
@@ -24158,7 +24169,7 @@
 			(uuid "778e63be-7df6-4a17-9dba-f177cb3ee08d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R17")
 					(unit 1)
@@ -24237,7 +24248,7 @@
 			(uuid "dcd0d661-961b-46c7-8188-15dd0eb59d83")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R52")
 					(unit 1)
@@ -24340,7 +24351,7 @@
 			(uuid "4288d662-8ebf-4f6a-9904-fe1e49977c97")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R4")
 					(unit 1)
@@ -24410,7 +24421,7 @@
 			(uuid "99531669-53bb-499c-9fe4-e476be9f53d5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R29")
 					(unit 1)
@@ -24489,7 +24500,7 @@
 			(uuid "4b8a42fa-a6b0-4bc3-a117-6532adbcec0a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R25")
 					(unit 1)
@@ -24592,7 +24603,7 @@
 			(uuid "20ad680f-0b11-441f-85f3-de11f1fd5c6a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R6")
 					(unit 1)
@@ -24657,7 +24668,7 @@
 			(uuid "079362f6-5801-442c-ab6b-95a42791c9b4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0125")
 					(unit 1)
@@ -24722,7 +24733,7 @@
 			(uuid "976d6394-ac52-4b2c-92e1-0115429af4d5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR043")
 					(unit 1)
@@ -24800,7 +24811,7 @@
 			(uuid "f49ad4b6-f477-45fb-9dd6-862135f715fc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C40")
 					(unit 1)
@@ -24865,7 +24876,7 @@
 			(uuid "457eb5ad-d21d-45bd-8d09-e0d317571523")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0122")
 					(unit 1)
@@ -24937,7 +24948,7 @@
 			(uuid "dad6ca2f-0a34-4bb6-8cb8-66f1a3c3f9cb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C31")
 					(unit 1)
@@ -25003,7 +25014,7 @@
 			(uuid "aa1d7fe4-cd7d-4bfa-9af0-f37f8809524f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR070")
 					(unit 1)
@@ -25068,7 +25079,7 @@
 			(uuid "a5f0e203-c7ce-4666-a958-45c4348e555e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR097")
 					(unit 1)
@@ -25147,7 +25158,7 @@
 			(uuid "66ffc438-4852-41fe-a301-15e833c735e9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C26")
 					(unit 1)
@@ -25212,7 +25223,7 @@
 			(uuid "4e42f038-16e8-4b4f-b13e-9dbe1200b7ea")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR012")
 					(unit 1)
@@ -25277,7 +25288,7 @@
 			(uuid "a8592f72-fc00-4d94-9118-4f5dbf0afae8")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0106")
 					(unit 1)
@@ -25342,7 +25353,7 @@
 			(uuid "6f6a170f-9a14-40bd-8459-0bf41b0696c6")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0170")
 					(unit 1)
@@ -25420,7 +25431,7 @@
 			(uuid "4bda450b-2ee4-40a4-a101-e41a41272021")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R11")
 					(unit 1)
@@ -25499,7 +25510,7 @@
 			(uuid "58b70d9b-4676-43ca-b002-da3eb79cddc3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C47")
 					(unit 1)
@@ -25564,7 +25575,7 @@
 			(uuid "c92561db-7f09-47af-8064-b2adf8a31c1d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR071")
 					(unit 1)
@@ -25643,7 +25654,7 @@
 			(uuid "9357203d-5f6e-48bb-9439-80a1ce505cc6")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C53")
 					(unit 1)
@@ -25712,7 +25723,7 @@
 			(uuid "539eee11-8446-4f9a-9487-92abe0b4c89a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP8")
 					(unit 1)
@@ -25780,7 +25791,7 @@
 			(uuid "224be354-1bc3-4c36-9693-2ce2ef977e1d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP5")
 					(unit 1)
@@ -25852,7 +25863,7 @@
 			(uuid "31544067-7595-43a3-bb5c-3a16f81488cc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C55")
 					(unit 1)
@@ -25919,7 +25930,7 @@
 			(uuid "81dc83b6-c4a5-4b73-9540-fda2cf67805f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0151")
 					(unit 1)
@@ -25984,7 +25995,7 @@
 			(uuid "3f935972-e678-4cb2-a861-936b7ae9cff4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR032")
 					(unit 1)
@@ -26050,7 +26061,7 @@
 			(uuid "d2a58eeb-8eba-4561-8bed-5114a6e88efb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR053")
 					(unit 1)
@@ -26129,7 +26140,7 @@
 			(uuid "d7697981-c047-4763-aa2e-e232b0ddd057")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R28")
 					(unit 1)
@@ -26208,7 +26219,7 @@
 			(uuid "c882c0da-bc04-4b11-8ea5-a15ed1e7894f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C29")
 					(unit 1)
@@ -26274,7 +26285,7 @@
 			(uuid "b88eacc2-6e67-46d9-8c73-ea79432399a2")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR039")
 					(unit 1)
@@ -26339,7 +26350,7 @@
 			(uuid "7195f9e9-62fe-443f-95ce-0bbb18f9ece0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR092")
 					(unit 1)
@@ -26413,7 +26424,7 @@
 			(uuid "7d8a9885-d047-4593-9d99-45ae716702cc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U5")
 					(unit 1)
@@ -26482,7 +26493,7 @@
 			(uuid "bb4da5f9-5d57-4a60-b77c-fc52c0077fc1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R37")
 					(unit 1)
@@ -26561,7 +26572,7 @@
 			(uuid "c094bcca-be5b-40f9-8f07-cc9e6d3bf278")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C52")
 					(unit 1)
@@ -26639,7 +26650,7 @@
 			(uuid "2174c14f-980f-4b18-91e6-9d919a6256ca")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C46")
 					(unit 1)
@@ -26704,7 +26715,7 @@
 			(uuid "dc358651-1e9e-45d9-8553-edc9b137b60d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR031")
 					(unit 1)
@@ -26769,7 +26780,7 @@
 			(uuid "5c573dfe-6006-47e3-ae54-cdca32e799fc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0105")
 					(unit 1)
@@ -26845,7 +26856,7 @@
 			(uuid "f0527913-a5cb-43c1-baf0-e6b03d08489d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "L1")
 					(unit 1)
@@ -26912,7 +26923,7 @@
 			(uuid "19de804f-b13b-41d4-b59e-d125636d0e6a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0152")
 					(unit 1)
@@ -26977,7 +26988,7 @@
 			(uuid "5fa6ca7e-58c7-4a71-9daf-04dd48f9ce7f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0160")
 					(unit 1)
@@ -27042,7 +27053,7 @@
 			(uuid "76dbb36f-766d-433f-b0c9-428c58908bd8")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR052")
 					(unit 1)
@@ -27110,7 +27121,7 @@
 			(uuid "e81ff4dd-54c1-4a54-9aa8-f7bc0948d97b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP6")
 					(unit 1)
@@ -27182,7 +27193,7 @@
 			(uuid "e3b39b0a-167b-4843-bc59-5f005bf91dfb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C24")
 					(unit 1)
@@ -27247,7 +27258,7 @@
 			(uuid "59194eed-f969-423a-b4d6-87a1df9005f7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0104")
 					(unit 1)
@@ -27316,7 +27327,7 @@
 			(uuid "8d2a71e6-b3c7-41ac-b3f3-d22a8f36d0b7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R51")
 					(unit 1)
@@ -27381,7 +27392,7 @@
 			(uuid "1b1be34d-1840-4b29-b262-a022155fb404")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0107")
 					(unit 1)
@@ -27520,7 +27531,7 @@
 			(uuid "fc3b7243-0bef-4571-88de-4375d1bd1ff9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "J7")
 					(unit 1)
@@ -27585,7 +27596,7 @@
 			(uuid "57db4055-ea12-4f7d-b97b-658fbf9771fd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0154")
 					(unit 1)
@@ -27677,7 +27688,7 @@
 			(uuid "41a795f7-2ed6-41e3-8177-5eac8dd98dc8")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U11")
 					(unit 1)
@@ -27745,7 +27756,7 @@
 			(uuid "65dd8e07-a846-45d9-ab7f-8b5d2d339fb9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP7")
 					(unit 1)
@@ -27814,7 +27825,7 @@
 			(uuid "8dd271a7-20b9-4829-afbc-dd0c2ae463d0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R33")
 					(unit 1)
@@ -27879,7 +27890,7 @@
 			(uuid "937f293b-cbcc-4ea5-ad4a-d899c4ad29c9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR094")
 					(unit 1)
@@ -28069,7 +28080,7 @@
 			(uuid "4073c757-f83b-4ca6-9c6a-293784a72b56")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U7")
 					(unit 1)
@@ -28147,7 +28158,7 @@
 			(uuid "c17468ba-e6e4-4e5d-a4bc-44221ccc1c99")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C39")
 					(unit 1)
@@ -28217,7 +28228,7 @@
 			(uuid "a668cf49-836b-4041-b477-713792604d7e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R34")
 					(unit 1)
@@ -28295,7 +28306,7 @@
 			(uuid "451d82ce-fc9a-4ed0-b5f5-247d13a3f73c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R8")
 					(unit 1)
@@ -28360,7 +28371,7 @@
 			(uuid "876e63ec-c5c5-4ab3-a02e-d217f06d0107")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR057")
 					(unit 1)
@@ -28427,7 +28438,7 @@
 			(uuid "55572975-6653-4f49-abef-0aa670149f89")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0109")
 					(unit 1)
@@ -28497,7 +28508,7 @@
 			(uuid "14ff83e5-b0d6-44d0-8a84-833262ff56bf")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R31")
 					(unit 1)
@@ -28569,7 +28580,7 @@
 			(uuid "c2187321-9740-4a25-98bb-4201dc763a03")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C16")
 					(unit 1)
@@ -28639,7 +28650,7 @@
 			(uuid "2f70f0e8-87be-4e58-8086-726bdfe3aecb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R38")
 					(unit 1)
@@ -28717,7 +28728,7 @@
 			(uuid "d2887012-7932-4978-81d7-dbb3ecaabf84")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C8")
 					(unit 1)
@@ -28844,7 +28855,7 @@
 			(uuid "93c6e543-2d15-4aaf-b411-fe55f7e63e0f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U12")
 					(unit 1)
@@ -28915,7 +28926,7 @@
 			(uuid "952f1116-a655-4265-998b-04666cbc592d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R21")
 					(unit 1)
@@ -28980,7 +28991,7 @@
 			(uuid "8db37ac4-9df1-4dc3-9103-571b903c25dc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR054")
 					(unit 1)
@@ -29045,7 +29056,7 @@
 			(uuid "dee1effb-b15b-4d31-bcc4-c67d0aee0049")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0100")
 					(unit 1)
@@ -29110,7 +29121,7 @@
 			(uuid "008f59d0-7148-48f7-a090-dd87fbf79dc7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0130")
 					(unit 1)
@@ -29175,7 +29186,7 @@
 			(uuid "a58d4965-1c74-4995-936f-36e68de655ee")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR02")
 					(unit 1)
@@ -29272,7 +29283,7 @@
 			(uuid "e82b60d5-9dc6-418b-bc8b-841912eda7d0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U3")
 					(unit 1)
@@ -29337,7 +29348,7 @@
 			(uuid "4b6774ca-258a-421a-aaa4-0ccf9930632a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR036")
 					(unit 1)
@@ -29402,7 +29413,7 @@
 			(uuid "fc1b7bf3-0eaf-4188-a0bb-c2a61c4943c7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0119")
 					(unit 1)
@@ -29467,7 +29478,7 @@
 			(uuid "d1d7849b-baf8-44ca-b26f-dbd94a49edd1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0167")
 					(unit 1)
@@ -29532,7 +29543,7 @@
 			(uuid "85eff5e0-df75-46fe-84dd-b9fba510f8db")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR013")
 					(unit 1)
@@ -29597,7 +29608,7 @@
 			(uuid "b101cf90-cff5-48df-bfd9-805ed617c8f5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR075")
 					(unit 1)
@@ -29669,7 +29680,7 @@
 			(uuid "87a9c435-6218-4f45-b6e1-c4a2152096a4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C18")
 					(unit 1)
@@ -29734,7 +29745,7 @@
 			(uuid "c131d378-4619-46e8-91ca-e4e366ed8a4a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR055")
 					(unit 1)
@@ -29800,7 +29811,7 @@
 			(uuid "0dfcd1fe-f707-4b38-a82f-0ddadee56cc2")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR087")
 					(unit 1)
@@ -29865,7 +29876,7 @@
 			(uuid "fbe7b924-dbd8-4917-bb8c-ac15e54e420b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR03")
 					(unit 1)
@@ -29943,7 +29954,7 @@
 			(uuid "5e5129a2-af07-46ae-9302-ec88be16c0d5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R23")
 					(unit 1)
@@ -30021,7 +30032,7 @@
 			(uuid "fc31f876-7441-4e11-9935-42961c732372")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R19")
 					(unit 1)
@@ -30086,7 +30097,7 @@
 			(uuid "dd635b3c-5034-40a3-9a60-495aa15e3de5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0143")
 					(unit 1)
@@ -30151,7 +30162,7 @@
 			(uuid "25c5b25f-0304-46b7-b941-a378f01b38a4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0129")
 					(unit 1)
@@ -30217,7 +30228,7 @@
 			(uuid "142a9f65-bec5-4e05-bb6b-14a6ce723be0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR091")
 					(unit 1)
@@ -30283,7 +30294,7 @@
 			(uuid "c5f343a8-0178-4490-86f2-9ddd931da2ab")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0162")
 					(unit 1)
@@ -30348,7 +30359,7 @@
 			(uuid "eeca7bde-7f72-47f1-a518-93119ef2f0df")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR04")
 					(unit 1)
@@ -30426,7 +30437,7 @@
 			(uuid "b7e4f4c5-7ae9-4fa5-ac14-dfa798211b15")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C13")
 					(unit 1)
@@ -30492,7 +30503,7 @@
 			(uuid "0e270c0b-7209-4f7d-a025-ac9fcdc973d2")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0171")
 					(unit 1)
@@ -30557,7 +30568,7 @@
 			(uuid "4872279e-85b8-41c5-8a13-bede3d9549ac")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR022")
 					(unit 1)
@@ -30635,7 +30646,7 @@
 			(uuid "b1dfe50a-7af2-46f6-839e-8118e654bc96")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C15")
 					(unit 1)
@@ -30700,7 +30711,7 @@
 			(uuid "14d9fbde-00ae-438a-b3db-28721dc90cdc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR021")
 					(unit 1)
@@ -30765,7 +30776,7 @@
 			(uuid "bbe898dd-cb7c-4732-9c4b-0d34ecd39222")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0126")
 					(unit 1)
@@ -30830,7 +30841,7 @@
 			(uuid "715e7eea-4f46-4398-9ee2-204c0d9f16bf")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0147")
 					(unit 1)
@@ -30895,7 +30906,7 @@
 			(uuid "c03a6607-449d-4458-afb1-9e7b4443c89c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR08")
 					(unit 1)
@@ -30960,7 +30971,7 @@
 			(uuid "976b81e5-fadc-43c3-a51a-64a3db8b0bff")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR034")
 					(unit 1)
@@ -31036,7 +31047,7 @@
 			(uuid "baaa516b-93a5-4c0c-ac74-7447bcd553a1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "L4")
 					(unit 1)
@@ -31101,7 +31112,7 @@
 			(uuid "4934d018-8d2f-4cb5-abfb-90073786ca24")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR050")
 					(unit 1)
@@ -31173,7 +31184,7 @@
 			(uuid "7301c252-ab9d-4a81-aefb-e02569d578b7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C10")
 					(unit 1)
@@ -31245,7 +31256,7 @@
 			(uuid "9f0233d0-f899-4610-9121-5e14be1c01fa")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C19")
 					(unit 1)
@@ -31310,7 +31321,7 @@
 			(uuid "06175499-f939-45dc-aa80-b46d0846234c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR051")
 					(unit 1)
@@ -31413,7 +31424,7 @@
 			(uuid "ea6caf96-180f-49ef-9957-d425029692ba")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R2")
 					(unit 1)
@@ -31485,7 +31496,7 @@
 			(uuid "32be566b-7a7a-49a6-808c-92a0de3ff98f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C54")
 					(unit 1)
@@ -31552,7 +31563,7 @@
 			(uuid "d87adb4f-3ce0-40c8-9d56-052cc3473997")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0113")
 					(unit 1)
@@ -31630,7 +31641,7 @@
 			(uuid "ca0bf005-b229-4a09-a135-350887c3c99b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R12")
 					(unit 1)
@@ -31699,7 +31710,7 @@
 			(uuid "49ebfd22-6559-42a9-8c52-6afd219a4f59")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R45")
 					(unit 1)
@@ -31766,7 +31777,7 @@
 			(uuid "0a6b3ec1-8be1-44fd-a648-e4341d89408f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR072")
 					(unit 1)
@@ -31836,7 +31847,7 @@
 			(uuid "be12f0f1-efef-49ea-a91d-7eb931c760ba")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C36")
 					(unit 1)
@@ -31901,7 +31912,7 @@
 			(uuid "b2031bff-b615-4cac-8cbd-ff6bd6ae8a23")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR023")
 					(unit 1)
@@ -31977,7 +31988,7 @@
 			(uuid "6910bb44-3ea3-4a43-9f88-eb9c290c0ad0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "L3")
 					(unit 1)
@@ -32043,7 +32054,7 @@
 			(uuid "1cf194b2-7ddf-44c5-93a3-98e73e5ca098")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR073")
 					(unit 1)
@@ -32115,7 +32126,7 @@
 			(uuid "3e8d2219-4596-4864-af25-79c75318c70d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C30")
 					(unit 1)
@@ -32185,7 +32196,7 @@
 			(uuid "ec5dc01e-dc0a-4674-8d57-5ebfaae7e317")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R36")
 					(unit 1)
@@ -32257,7 +32268,7 @@
 			(uuid "3620c133-c99b-48bc-8bf6-60f05398841f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C51")
 					(unit 1)
@@ -32342,7 +32353,7 @@
 			(uuid "8bb130f0-917f-4b22-86fd-5934b6cda36f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U2")
 					(unit 1)
@@ -32358,10 +32369,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aa254f88-8806-46ef-87ce-95fcebbb3d74")
 		(property "Reference" "D3"
-			(at 235.0135 31.75 0)
+			(at 230.632 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32369,7 +32379,7 @@
 			)
 		)
 		(property "Value" "GRN"
-			(at 235.0135 34.29 0)
+			(at 234.95 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32410,7 +32420,7 @@
 			(uuid "d5245c00-2b43-454b-ab7a-cfa1464839f0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "D3")
 					(unit 1)
@@ -32480,7 +32490,7 @@
 			(uuid "c979a6ee-e9b3-4e8b-9cb4-e301b63f132f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R26")
 					(unit 1)
@@ -32545,7 +32555,7 @@
 			(uuid "935eb451-c3ee-49e3-8eb7-b6a2f1b8e299")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR048")
 					(unit 1)
@@ -32615,7 +32625,7 @@
 			(uuid "eb8dbb84-6aba-46fb-a9dd-4089b5e0f4ec")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R46")
 					(unit 1)
@@ -32680,7 +32690,7 @@
 			(uuid "de94f573-97f9-4bc2-a4b2-98d38f89a183")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR010")
 					(unit 1)
@@ -32745,7 +32755,7 @@
 			(uuid "ef7846e9-f7a6-4b7c-95f3-70b3b7927cc9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR081")
 					(unit 1)
@@ -32823,7 +32833,7 @@
 			(uuid "b8327074-a052-4576-a5e6-046c2fa47656")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C45")
 					(unit 1)
@@ -32889,7 +32899,7 @@
 			(uuid "4eb71dd6-9e4e-4431-81f3-58b21e15f920")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR049")
 					(unit 1)
@@ -32954,7 +32964,7 @@
 			(uuid "3f633cb8-59e3-4bbf-867d-9075581b475c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0114")
 					(unit 1)
@@ -33019,7 +33029,7 @@
 			(uuid "eeea6104-7455-4914-9e8e-bc44cec56a99")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR088")
 					(unit 1)
@@ -33084,7 +33094,7 @@
 			(uuid "e9909dd0-c52b-49ed-8793-f0f6a357d136")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0133")
 					(unit 1)
@@ -33149,7 +33159,7 @@
 			(uuid "72a25c47-7c97-47e3-b35f-eacefbc7f836")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0121")
 					(unit 1)
@@ -33219,7 +33229,7 @@
 			(uuid "a225222a-2f3f-4835-ba20-e2afd910023e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R40")
 					(unit 1)
@@ -33289,7 +33299,7 @@
 			(uuid "3a20a641-2108-4740-ae0f-c2270dc913d1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R27")
 					(unit 1)
@@ -33354,7 +33364,7 @@
 			(uuid "fe03de1f-15a7-4902-b212-f300524987c5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0158")
 					(unit 1)
@@ -33433,7 +33443,7 @@
 			(uuid "cfc12df3-cf53-40ba-bc96-e9c46a2c11eb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C6")
 					(unit 1)
@@ -33498,7 +33508,7 @@
 			(uuid "5eadb400-cfba-4682-b594-6809b9393a91")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR064")
 					(unit 1)
@@ -33570,7 +33580,7 @@
 			(uuid "47a0acd1-554c-4d64-b879-4c8dbddccb8f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C20")
 					(unit 1)
@@ -33635,7 +33645,7 @@
 			(uuid "1e898e16-18c5-4747-b729-3be5720c3ec3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR041")
 					(unit 1)
@@ -33700,7 +33710,7 @@
 			(uuid "0e95bd6f-61f6-4b98-af6b-db5420c5026d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0120")
 					(unit 1)
@@ -33778,7 +33788,7 @@
 			(uuid "33ef29b3-f479-4db0-922a-a7a7e8890e45")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R15")
 					(unit 1)
@@ -33843,7 +33853,7 @@
 			(uuid "533b51e1-1f20-4640-82ed-d7cbabec2a73")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0127")
 					(unit 1)
@@ -33908,7 +33918,7 @@
 			(uuid "e4a10fc0-8a87-4958-9873-f56fbf59210c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0115")
 					(unit 1)
@@ -33974,7 +33984,7 @@
 			(uuid "2997e394-2a91-48d1-9fcf-356790b512ad")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR028")
 					(unit 1)
@@ -34044,7 +34054,7 @@
 			(uuid "d1a39a06-6aa5-46ab-9cb2-b6f8da6798d2")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R32")
 					(unit 1)
@@ -34118,7 +34128,7 @@
 			(uuid "e3e5cc92-871d-45b5-a2c4-085ea4006705")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP2")
 					(unit 1)
@@ -34183,7 +34193,7 @@
 			(uuid "c291e516-980d-4fc9-b1dd-73ef2675d9f0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0124")
 					(unit 1)
@@ -34249,7 +34259,7 @@
 			(uuid "42ac57c4-de1c-4a82-817d-8a2f728b93f4")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0156")
 					(unit 1)
@@ -34315,7 +34325,7 @@
 			(uuid "76edd948-4e6d-4aa5-bf43-dd94c9496429")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR089")
 					(unit 1)
@@ -34380,7 +34390,7 @@
 			(uuid "42631182-9c4a-443c-a8d0-a038854711bd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0139")
 					(unit 1)
@@ -34446,7 +34456,7 @@
 			(uuid "4d33fbdc-554e-4001-a219-9db810a5b2c9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR084")
 					(unit 1)
@@ -34525,7 +34535,7 @@
 			(uuid "9692420c-f2b2-4dee-bccd-e670db48c7cb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C35")
 					(unit 1)
@@ -34590,7 +34600,7 @@
 			(uuid "5e7f8c1c-656b-4c6c-9057-81b0816d9c2a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0132")
 					(unit 1)
@@ -34693,7 +34703,7 @@
 			(uuid "a9881e30-63ef-458c-aa3f-bf013519b35d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R53")
 					(unit 1)
@@ -34759,7 +34769,7 @@
 			(uuid "9c2dc133-7190-4fbf-9c76-f0e8732b284c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR065")
 					(unit 1)
@@ -34828,7 +34838,7 @@
 			(uuid "639acf13-286a-43b4-94c0-302990c7c06d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R47")
 					(unit 1)
@@ -34893,7 +34903,7 @@
 			(uuid "e1fec2a4-4336-433d-b732-5683b3d5d92c")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0128")
 					(unit 1)
@@ -34958,7 +34968,7 @@
 			(uuid "cf51c8e2-0442-4873-b9b6-27b03164414e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR066")
 					(unit 1)
@@ -35023,7 +35033,7 @@
 			(uuid "1b8dcf1d-9ac4-4c66-878b-530ba7782f6a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0118")
 					(unit 1)
@@ -35088,7 +35098,7 @@
 			(uuid "6ccbb90c-88c3-4d4c-8bda-e7f42ac7986a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR083")
 					(unit 1)
@@ -35166,7 +35176,7 @@
 			(uuid "1d02efeb-5532-4c2f-ab45-52304b9b261d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R7")
 					(unit 1)
@@ -35182,10 +35192,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c576e902-f90e-4bdf-8468-4c28ef0fa93f")
 		(property "Reference" "D2"
-			(at 235.0135 26.67 0)
+			(at 230.632 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35193,7 +35202,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 235.0135 29.21 0)
+			(at 234.95 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35234,7 +35243,7 @@
 			(uuid "416fd061-51dd-435d-9242-0e529e45f648")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "D2")
 					(unit 1)
@@ -35312,7 +35321,7 @@
 			(uuid "347e6742-c042-40b6-9466-1ec6a50172a7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R22")
 					(unit 1)
@@ -35379,7 +35388,7 @@
 			(uuid "5efd60e4-be53-48db-9d11-d33b7fc2fe4f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R42")
 					(unit 1)
@@ -35445,7 +35454,7 @@
 			(uuid "3305e427-046f-493e-bc56-d5da17b04882")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR046")
 					(unit 1)
@@ -35512,7 +35521,7 @@
 			(uuid "a1a76de0-4fba-44b0-b456-af9026eabcee")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R43")
 					(unit 1)
@@ -35584,7 +35593,7 @@
 			(uuid "498a80aa-489d-46d3-8a8f-2f98b9e010af")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C28")
 					(unit 1)
@@ -35649,7 +35658,7 @@
 			(uuid "20b67479-52a2-4b27-a7fe-bcbc70258ba5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR06")
 					(unit 1)
@@ -35752,7 +35761,7 @@
 			(uuid "79e48885-aa00-44dc-bc8b-b1af2caafc11")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R5")
 					(unit 1)
@@ -35821,7 +35830,7 @@
 			(uuid "998c50d6-3a72-48a1-b155-e25dcf5964e9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R49")
 					(unit 1)
@@ -35891,7 +35900,7 @@
 			(uuid "cf9d9db7-1187-4dc6-a5a2-f8690c455cff")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R48")
 					(unit 1)
@@ -36006,7 +36015,7 @@
 			(uuid "21f54ac7-8681-4c32-8078-b9878e478dcd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U9")
 					(unit 1)
@@ -36072,7 +36081,7 @@
 			(uuid "d2b90d21-94d9-4a4e-bbec-aa7e1f8ba706")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0164")
 					(unit 1)
@@ -36138,7 +36147,7 @@
 			(uuid "e1c0b831-6cb9-42b1-9ae4-bf3be1de64c5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR078")
 					(unit 1)
@@ -36203,7 +36212,7 @@
 			(uuid "e7fb8cd9-6098-4dd1-a9cf-d5a3ef804eca")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR086")
 					(unit 1)
@@ -36271,7 +36280,7 @@
 			(uuid "56759e98-b53f-4354-8b5c-4d2707ae34a8")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "SW1")
 					(unit 1)
@@ -36374,7 +36383,7 @@
 			(uuid "29ee512b-2b9a-4c4b-99a1-a2a04a5a791a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R1")
 					(unit 1)
@@ -36439,7 +36448,7 @@
 			(uuid "035053b2-bb5d-4251-a7ae-cbb000ca54e1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR062")
 					(unit 1)
@@ -36504,7 +36513,7 @@
 			(uuid "b5147a80-b989-460e-b168-77ba3f1ba88e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0136")
 					(unit 1)
@@ -36576,7 +36585,7 @@
 			(uuid "ef9a58bb-2f06-47ef-8088-57e53a1a0699")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C7")
 					(unit 1)
@@ -36641,7 +36650,7 @@
 			(uuid "1419aac2-b157-4802-b3f2-5adbbc2b8ef0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0165")
 					(unit 1)
@@ -36709,7 +36718,7 @@
 			(uuid "ad33c9dc-4550-4dba-be3f-eba7fb158f02")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "SW2")
 					(unit 1)
@@ -36776,7 +36785,7 @@
 			(uuid "0184a47a-ec06-4127-915b-23bdc8a47bc1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "D4")
 					(unit 1)
@@ -36841,7 +36850,7 @@
 			(uuid "add078c3-5f7d-45db-b9ce-eb4ce86dc3d7")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0175")
 					(unit 1)
@@ -36907,7 +36916,7 @@
 			(uuid "2877d473-3a60-4a25-a014-b230468fbd5e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0159")
 					(unit 1)
@@ -36986,7 +36995,7 @@
 			(uuid "2cd1a504-3cae-4dbd-9a1f-a949ab158a3b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C38")
 					(unit 1)
@@ -37056,7 +37065,7 @@
 			(uuid "361facb9-f550-4c85-8869-156e412e784b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R50")
 					(unit 1)
@@ -37122,7 +37131,7 @@
 			(uuid "914e35d1-dc83-401f-8db9-4f0b91410179")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0140")
 					(unit 1)
@@ -37194,7 +37203,7 @@
 			(uuid "e9aead6b-7612-41aa-ad85-60c3d192e829")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C9")
 					(unit 1)
@@ -37260,7 +37269,7 @@
 			(uuid "420146a6-b01d-423a-9b9b-2864ae54787e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0168")
 					(unit 1)
@@ -37325,7 +37334,7 @@
 			(uuid "b7e8399f-6018-4027-81ab-5a6c4988f1ca")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0123")
 					(unit 1)
@@ -37391,7 +37400,7 @@
 			(uuid "39b2a5c4-719a-41ea-8fc1-89f568b2a2b3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR025")
 					(unit 1)
@@ -37459,7 +37468,7 @@
 			(uuid "d5ba0233-2c96-4c35-97ca-4c7beaa804eb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "SW3")
 					(unit 1)
@@ -37539,7 +37548,7 @@
 			(uuid "95c47be6-d383-4d91-8357-aa5829ce7acd")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "J8")
 					(unit 1)
@@ -37642,7 +37651,7 @@
 			(uuid "551fbc07-e9a3-4d44-a5f9-dba4fd83e912")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R3")
 					(unit 1)
@@ -37721,7 +37730,7 @@
 			(uuid "54c1da0a-51ea-490a-a4dd-a0dbe884dfeb")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C49")
 					(unit 1)
@@ -37786,7 +37795,7 @@
 			(uuid "53567221-239c-4cc6-a770-d718346d4f7e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0172")
 					(unit 1)
@@ -37852,7 +37861,7 @@
 			(uuid "5f51d4b0-cb08-4a44-a05e-90433264b31e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR035")
 					(unit 1)
@@ -37917,7 +37926,7 @@
 			(uuid "efcbc88d-8eec-4636-ba11-e53d52475792")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR098")
 					(unit 1)
@@ -37983,7 +37992,7 @@
 			(uuid "a9e408a3-0cf9-4d39-83b3-6b3a1b9b8ec1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0149")
 					(unit 1)
@@ -38055,7 +38064,7 @@
 			(uuid "11e91e14-6662-4e34-847f-45ac70fa59c9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C11")
 					(unit 1)
@@ -38133,7 +38142,7 @@
 			(uuid "8b35f2f2-cd1b-4c8c-ad88-5694bc347ff1")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C23")
 					(unit 1)
@@ -38211,7 +38220,7 @@
 			(uuid "4e1d6bab-4961-4f73-b096-22b3ab51b4be")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R13")
 					(unit 1)
@@ -38278,7 +38287,7 @@
 			(uuid "7942be04-b4e3-40b8-83ed-c763dfe8e7e9")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR082")
 					(unit 1)
@@ -38373,7 +38382,7 @@
 			(uuid "38862e3b-2fda-4dbf-9e7f-7b7fdf98a273")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "U8")
 					(unit 1)
@@ -38452,7 +38461,7 @@
 			(uuid "d621b2f9-e047-4dec-a487-9222fc343e7f")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C42")
 					(unit 1)
@@ -38517,7 +38526,7 @@
 			(uuid "6990f336-7218-42ec-92d6-cedea21ab921")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR09")
 					(unit 1)
@@ -38583,7 +38592,7 @@
 			(uuid "b1625f2c-3c0c-4d37-9cad-8585f74b1812")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR027")
 					(unit 1)
@@ -38648,7 +38657,7 @@
 			(uuid "4bf09dc1-0a0a-4d9d-bf29-b7d8c47a3cf6")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR058")
 					(unit 1)
@@ -38713,7 +38722,7 @@
 			(uuid "1bda6919-2b4d-45f9-8b5a-8a79f38a871d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR045")
 					(unit 1)
@@ -38779,7 +38788,7 @@
 			(uuid "07ad7448-90a2-441d-a85c-25993bffab07")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR026")
 					(unit 1)
@@ -38844,7 +38853,7 @@
 			(uuid "2dbe045b-995f-47ab-9957-64917c0de89e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR037")
 					(unit 1)
@@ -38910,7 +38919,7 @@
 			(uuid "88174e05-9a31-491e-94f1-f58fb39a74fe")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR068")
 					(unit 1)
@@ -38975,7 +38984,7 @@
 			(uuid "efc24628-a829-4d9d-8175-ce290ac37382")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR069")
 					(unit 1)
@@ -39040,7 +39049,7 @@
 			(uuid "45c0823b-695f-4755-9817-75b34cd632ae")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR085")
 					(unit 1)
@@ -39119,7 +39128,7 @@
 			(uuid "ea4be948-3601-4f05-a29d-a4d2734a2b45")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "J2")
 					(unit 1)
@@ -39184,7 +39193,7 @@
 			(uuid "7f8b3ee3-155a-462c-957a-ff216c19c742")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR044")
 					(unit 1)
@@ -39262,7 +39271,7 @@
 			(uuid "fe443b0d-174e-45f6-90e6-b78b4e37c53e")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R10")
 					(unit 1)
@@ -39340,7 +39349,7 @@
 			(uuid "831259ee-4ed6-4556-8dd7-956f70f3f30d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R30")
 					(unit 1)
@@ -39410,7 +39419,7 @@
 			(uuid "3b64b897-c6e8-4c09-ace5-6c2fb4ccc8fc")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "D5")
 					(unit 1)
@@ -39475,7 +39484,7 @@
 			(uuid "fed45644-0479-416a-b3f3-b0670a055f27")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0148")
 					(unit 1)
@@ -39540,7 +39549,7 @@
 			(uuid "17ed68f3-2d3b-42ac-98a3-41ccf2c152e0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR047")
 					(unit 1)
@@ -39605,7 +39614,7 @@
 			(uuid "d1d277c0-78ec-41c9-bfcb-8f3da2c0fa7a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR079")
 					(unit 1)
@@ -39676,7 +39685,7 @@
 			(uuid "d072289c-b646-4744-bb3e-60500fe26f60")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R20")
 					(unit 1)
@@ -39742,7 +39751,7 @@
 			(uuid "dcd1361d-bde7-46de-a638-59af7050e8d3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR076")
 					(unit 1)
@@ -39807,7 +39816,7 @@
 			(uuid "875093a9-0135-4652-ac10-c03cfbd1ef79")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR038")
 					(unit 1)
@@ -39877,7 +39886,7 @@
 			(uuid "7c7da8cc-77a8-4f1d-a122-b9842ba6035a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "R9")
 					(unit 1)
@@ -39960,7 +39969,7 @@
 			(uuid "3ecdf6d0-4049-4f7f-b10d-5be9a62f046d")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "MK2")
 					(unit 1)
@@ -40027,7 +40036,7 @@
 			(uuid "d0ef191f-d072-4fa0-a148-8022027cd488")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0155")
 					(unit 1)
@@ -40103,7 +40112,7 @@
 			(uuid "5b6b3762-0f09-4513-9ab8-607879798e79")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "L2")
 					(unit 1)
@@ -40169,7 +40178,7 @@
 			(uuid "778a1ced-5354-4deb-a32d-acf1190fd6e3")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR059")
 					(unit 1)
@@ -40234,7 +40243,7 @@
 			(uuid "e96204a0-fc9d-4a7d-854e-9a649e7f50d5")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0102")
 					(unit 1)
@@ -40299,7 +40308,7 @@
 			(uuid "2b1be304-49c7-4204-98ca-58bcd716f7ce")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR040")
 					(unit 1)
@@ -40364,7 +40373,7 @@
 			(uuid "113cce3e-208c-401d-9f14-5de7307a2a29")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR07")
 					(unit 1)
@@ -40430,7 +40439,7 @@
 			(uuid "51982b40-001e-42ab-9da0-8280a8f59b6b")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR080")
 					(unit 1)
@@ -40496,7 +40505,7 @@
 			(uuid "e115c23f-247b-4af1-b540-f87a780d93b0")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0131")
 					(unit 1)
@@ -40561,7 +40570,7 @@
 			(uuid "16644223-641c-4e5a-af16-508a3bcb129a")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0169")
 					(unit 1)
@@ -40633,7 +40642,7 @@
 			(uuid "b90b3379-d197-4515-9d6d-bf876a0c1354")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "C27")
 					(unit 1)
@@ -40699,7 +40708,7 @@
 			(uuid "83bf9ce8-59a6-43a1-9c54-0282ca7b44ab")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR063")
 					(unit 1)
@@ -40768,7 +40777,7 @@
 			(uuid "3f7e642d-939d-4aa8-bd58-52520b9128d6")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "JP9")
 					(unit 1)
@@ -40833,7 +40842,7 @@
 			(uuid "f1d76c3c-425b-4166-8954-48648a66a441")
 		)
 		(instances
-			(project "girlsvoice"
+			(project "girlvoice"
 				(path "/47976479-7de8-4946-a635-456fcdf99d66"
 					(reference "#PWR0142")
 					(unit 1)
